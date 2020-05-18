@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jemys89/ngx-facebook.git"
+    "url": "git+https://github.com/ngnam/ngx-facebook.git"
   },
   "keywords": [
     "facebook",
@@ -35,9 +35,9 @@
   "author": "Zyra Media Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jemys89/ngx-facebook/issues"
+    "url": "https://github.com/ngnam/ngx-facebook/issues"
   },
-  "homepage": "https://github.com/jemys89/ngx-facebook",
+  "homepage": "https://github.com/ngnam/ngx-facebook",
   "devDependencies": {
     "@angular/animations": "^9.1.7",
     "@angular/common": "^9.1.7",
